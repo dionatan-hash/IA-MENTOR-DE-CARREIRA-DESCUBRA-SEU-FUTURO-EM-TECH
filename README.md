@@ -1,3 +1,21 @@
+# 📌 Apresentação
+
+Este trabalho foi desenvolvido como parte de um estudo sobre orientação de carreira em tecnologia, utilizando dois agentes de apoio:
+
+- [Agente 1 – Entrevistador de Carreira em Tecnologia](https://github.com/digitalinnovationone/copilot-prompts/blob/main/AGENT%201%20-%20Entrevistador%20de%20Carreira%20em%20Tecnologia)  
+- [Agente 2 – Planejador de Carreiras](https://github.com/digitalinnovationone/copilot-prompts/blob/main/AGENT%202%20-%20Planejador%20de%20Carreiras)
+
+A partir da interação com esses agentes, foi construído um **Plano Personalizado de Carreira – Analista & Engenheiro de Dados**, que inclui:
+
+- Roadmap de 120 dias com cronograma de estudos  
+- Mapa de skills essenciais e complementares  
+- Projeto de portfólio (pipeline + dashboard de vendas)  
+- Roteiro de entrevistas com perguntas e respostas  
+- Trilha de cursos recomendados na DIO  
+
+🔗 O resultado final está disponível no repositório:  
+[IA-MENTOR-DE-CARREIRA-DESCUBRA-SEU-FUTURO-EM-TECH](https://github.com/dionatan-hash/IA-MENTOR-DE-CARREIRA-DESCUBRA-SEU-FUTURO-EM-TECH)
+
 # IA-MENTOR-DE-CARREIRA-DESCUBRA-SEU-FUTURO-EM-TECH 📌 Plano Personalizado de Carreira – Analista & Engenheiro de Dados
 🧩 VISÃO DO DIA A DIA
 GitHub (logo no início):
